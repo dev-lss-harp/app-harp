@@ -1,6 +1,6 @@
 {
     "name": "dev-lss/app-harp",
-    "description": "PHP MVC Framework Harp project",
+    "description": "Project base Harp Framework PHP",
     "type": "project",
     "license": "MIT",
     "authors": [
