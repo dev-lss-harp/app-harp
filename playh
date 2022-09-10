@@ -16,6 +16,7 @@ class HarpPlay
         "build::model" => true,
         "build::view" => true,
         "build::layout" => true,
+        "build::template" => true,
         "build::layout_file" => true,
         "build::app" => true,
         "build::api" => true,
