@@ -28,6 +28,7 @@ class HarpPlay
         "build::server" => true,
         "db::create_migration" => true,
         "db::migrate" => true,
+        "db::entity" => true,
         "del::app" => true,
         "del::api" => true,
         "del::layout" => true,
@@ -58,7 +59,7 @@ class HarpPlay
         }
      
         $cmd = '\\Harp\\playh\\'.ucfirst($cmd);
-
+ 
         $cmd($this->argv);
     }
 
