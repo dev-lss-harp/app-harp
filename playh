@@ -26,6 +26,7 @@ class HarpPlay
         "build::route" => true,
         "build::group"  => true,
         "build::server" => true,
+        "build::entity" => true,
         "db::create_migration" => true,
         "db::migrate" => true,
         "db::entity" => true,
